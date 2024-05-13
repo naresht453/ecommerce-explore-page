@@ -1,0 +1,38 @@
+.all-border{
+    width: 1500px;
+    height: 90vh; 
+    background-color:#f49541;
+}
+.img-1{
+    height: 250px;
+    width: 600px;
+    padding-top: 2px;
+    padding-right: 200px;
+    padding-left: 150px;
+}
+.img-2{
+    height: 200px;
+    width: 1000px;
+    padding-top: 5px;
+    padding-left: 500px;
+}
+.Title{
+    text-align: center;
+    padding-top: 10px;
+    width: 90%;
+    padding-left: 110px;
+    color:#ad2167  ;
+}
+.para{
+    color: aliceblue;
+    text-align: center;
+    padding-top: 10px;
+    font-size:130%;
+    padding-right: 65px;
+}
+.img-3{
+    height: 170px;
+    width: 900px;
+    padding-top: 10px;
+    padding-left: 540px;
+}
